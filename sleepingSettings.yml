@@ -14,6 +14,8 @@ webStopOnStart: false
 startMinecraft: true # false to disable
 minecraftCommand: "java -jar paper.jar nogui" # or paper.jar or whatever flavor you like
 
+# preventStop: true # Prevent the user to stop the server (trought web-server or cli).
+
 # /!\ Edit this setting only if you know what you are doing
 # minecraftWorkingDirectory: "" # Set a custom working directory (path to minecraft server folder)
 
