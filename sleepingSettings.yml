@@ -10,12 +10,12 @@ maxPlayers: 20
 
 webPort: 0 # 0 to disable web hosting, on a positive number a web page it will serve
 webStopOnStart: false
-version: 1.15.2 # Force compatibility with a specific minecraft version
+
 startMinecraft: true # false to disable
 minecraftCommand: "java -jar paper.jar nogui" # or paper.jar or whatever flavor you like
 
 # preventStop: true # Prevent the user to stop the server (trought web-server or cli).
-
+# version: 1.15.2 # Force compatibility with a specific minecraft version
 # /!\ Edit this setting only if you know what you are doing
 # minecraftWorkingDirectory: "" # Set a custom working directory (path to minecraft server folder)
 
